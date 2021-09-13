@@ -1,0 +1,28 @@
+{
+  "name": "bootshells.github.io",
+  "version": "1.0.0",
+  "description": "The official website for bootshells",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootshells/bootshells.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootshells/bootshells.github.io/issues"
+  },
+  "homepage": "https://github.com/bootshells/bootshells.github.io#readme",
+  "devDependencies": {
+    "sass": "^1.38.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "bootstrap-icons": "^1.5.0"
+  }
+}
